@@ -71,3 +71,24 @@ height: 300px;
   bottom: 0px;
   z-index: +1;
 }
+
+.card-pricing.popular {
+  z-index: 1;
+  border: 3px solid #6E3F19;
+}
+.card-pricing .list-unstyled li {
+  padding: .5rem 0;
+  color: #6c757d;
+}
+/* mine */
+.cardpricing2 {
+  background-color: #6E3F19;
+  color: white;
+}
+.brownletters{
+
+  color: #6E3F19;
+}
+.ordrbtn{
+  background-color: #dbb08db0;
+}
